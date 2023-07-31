@@ -1,0 +1,76 @@
+.container{
+	padding:5px ;
+}
+.primary_btn{
+	
+	padding:8px 15px;
+	color:white;
+	background-color:#076cff;
+	border-radius:3px;
+	border:none;
+}
+.sec_btn{
+	padding:8px 15px;
+	color:white;
+	background-color:#6c757e;
+	border-radius:3px;
+	border:none;
+}
+.suc_btn{
+	padding:8px 15px;
+	color:white;
+	background-color:#1a8554;
+	border-radius:3px;
+	border:none;
+}
+.dan_btn{
+	padding:8px 15px;
+	color:white;
+	background-color:#bb4452;
+	border-radius:3px;
+	border:none;
+}
+.warn_btn{
+	padding:8px 15px;
+	color:white;
+	background-color:yellow;
+	border-radius:3px;
+	border:none;
+}
+.info_btn{
+	padding:8px 15px;
+	color:white;
+	background-color:#0acbef;
+	border-radius:3px;
+	border:none;
+}
+.lig_btn{
+	padding:8px 15px;
+	color:black;
+	background-color:#f9f9fb;
+	border-radius:3px;
+	border:none;
+}
+.dark_btn{
+	padding:8px 15px;
+	color:white;
+	background-color:#20242a;
+	border-radius:3px;
+	border:none;
+	
+}
+.link{
+	text-decoration:underline;
+	background-color:none;
+	cursor:pointer;
+	color:blue;
+	border:none;
+}
+.btn_link{
+	text-decoration:none;
+	color:blue;
+	border-radius:3px;
+	border:none;
+	padding:8px 15px;
+	background:transparent;
+}
