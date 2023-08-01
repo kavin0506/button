@@ -8,6 +8,8 @@
 	background-color:#076cff;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 }
 .sec_btn{
 	padding:8px 15px;
@@ -15,6 +17,8 @@
 	background-color:#6c757e;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 }
 .suc_btn{
 	padding:8px 15px;
@@ -22,6 +26,8 @@
 	background-color:#1a8554;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 }
 .dan_btn{
 	padding:8px 15px;
@@ -29,6 +35,8 @@
 	background-color:#bb4452;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 }
 .warn_btn{
 	padding:8px 15px;
@@ -36,6 +44,8 @@
 	background-color:yellow;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 }
 .info_btn{
 	padding:8px 15px;
@@ -43,6 +53,8 @@
 	background-color:#0acbef;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 }
 .lig_btn{
 	padding:8px 15px;
@@ -50,6 +62,8 @@
 	background-color:#f9f9fb;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 }
 .dark_btn{
 	padding:8px 15px;
@@ -57,11 +71,13 @@
 	background-color:#20242a;
 	border-radius:3px;
 	border:none;
+	text-decoration:none;
+	cursor:default;
 	
 }
 .link{
 	text-decoration:underline;
-	background-color:none;
+	background-color:transparent;
 	cursor:pointer;
 	color:blue;
 	border:none;
